@@ -1,0 +1,2 @@
+selenium==3.141.0
+mailchimp3==3.0.14
