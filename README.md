@@ -1,4 +1,5 @@
 # EN
+
 ## Scraping resmigazete.gov.tr Data Daily and Sending Mail to Registered Subscribers
 ### Thanks to its establishment on Herokuapp and Heroku Scheduler, it sends the official newspaper via web scraping at 05.00 and sends mail to its registered subscribers. 
 
@@ -31,15 +32,17 @@ Finally, every time you connect to the mail service again and again; For user ma
 
 [Click here](https://www.sinerjik.org/resmi-gazete-e-posta-hizmeti/) to sign up for the mailing list.
 
-You can browse my [website](https://www.muhammedalikocabey.com/blog) for more.
-
-For help and questions, go to my mail address [me@muhammedalikocabey.com](mailto:me@muhammedalikocabey.com) you can contact me.
+------------------
 
 
+
+&nbsp;
+&nbsp;
 
 
 
 # TR
+
 ## resmigazete.gov.tr Verilerini Günlük Olarak Çekme ve Kayıtlı Abonelere Mail Gönderme
 ### Herokuapp üzerinde kurulmuş olması ve Heroku Scheduler sayesinde resmi gazeteyi 06.00'da web scraping ile çekip kayıtlı abonelerine mail atıyor.
 
@@ -71,6 +74,4 @@ Son olarak her seferinde mail seferinde tekrar mail serverine bağlanıp; kullan
 
 Mail listesine kaydolmak için [tıklayınız.](https://www.sinerjik.org/resmi-gazete-e-posta-hizmeti/)
 
-Daha fazlası için [web siteme](https://www.muhammedalikocabey.com/blog) göz atabilirsiniz.
-
-Yardım ve sorularınız için mail adresimden [me@muhammedalikocabey.com](mailto:me@muhammedalikocabey.com) bana ulaşabilirsiniz.
+------------------
